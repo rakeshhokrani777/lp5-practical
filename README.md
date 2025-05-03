@@ -16,5 +16,10 @@ And agar tujhe copy paste karna hai ya nahi kaam kare ye method so
 https://chatgpt.com/share/67f831e9-20c0-8010-968c-5078bea58bfb
 
 https://github.com/khan0003-py/VIII for hpc 4th practical
+## 
+
+For all practicals visit this:
 
 https://github.com/AdityaJagtap18/LP5-Practicals/tree/main
+
+##
